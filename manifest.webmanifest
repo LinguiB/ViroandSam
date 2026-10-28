@@ -1,0 +1,36 @@
+{
+  "name": "Basbousa’s Recipe Booklet",
+  "short_name": "Basbousa’s Recipe Booklet",
+  "description": "A pink and purple recipe booklet with 90+ recipes, mood suggestions, favorites and a shopping list.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffaf5",
+  "theme_color": "#ff7eb6",
+  "lang": "en",
+  "categories": [
+    "food",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
